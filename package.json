@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "netlify-cli": "^12.7.2"
+  },
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
